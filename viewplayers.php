@@ -1,0 +1,1 @@
+/home/jim/PHPgsm/viewplayers.php
